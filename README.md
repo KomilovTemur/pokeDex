@@ -1,11 +1,13 @@
 # Welcome to Reactjs Quest02
 ***
 
-## Task
-Learing Reactjs
 
-## Description
-Reactjs.org
+
+## Task
+Creating pokedexApp
+
+## Link to this app
+https://pokedex-app-v2.netlify.app/
 
 ## Installation
 ```
